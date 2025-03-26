@@ -1,3 +1,3 @@
 # Voicelet
 
-A new Flutter project.
+An Innovative Learning App Using Voice Input
